@@ -24,7 +24,7 @@ Please do not enter "0" for value2.
 ### 6. Square Root
 ``` http://localhost:3040/sqrt?n1="value1" ```
 
-Please do not enter a negative number for value 1.
+Please do not enter a negative number for value1.
 
 ### 7. Modulo
 ``` http://localhost:3040/mod?n1="value1"&n2="value2" ```
